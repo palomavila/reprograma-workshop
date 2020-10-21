@@ -7,11 +7,13 @@ Esta Landing Page foi criada através dos conceitos ensinados no Workshop {repro
 
 ## 💻  Screenshots
 <div align="center">
-  <img src="https://github.com/palomavila/landingpage/blob/main/github/bg.png" alt"Banner" title="Banner" />
+  <img src="https://github.com/palomavila/reprograma-workshop/blob/main/github/bg.png" alt"Banner" title="Banner" />
  
  <div align="center">
-  <img src="https://github.com/palomavila/landingpage/blob/main/github/restof.png" alt"Cards+Footer" title="Cards+Footer" />
-
+  <img src="https://github.com/palomavila/reprograma-workshop/blob/main/github/page.png" alt"Page" title="Page" />
+  
+ <div align="center">
+  <img src="https://github.com/palomavila/reprograma-workshop/blob/main/github/footer.png" alt"Footer" title="Footer" />
 
 <div align="left">
   
