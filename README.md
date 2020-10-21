@@ -2,7 +2,7 @@
 
 ## 💻Projeto
 
-Esta Landing Page foi criada aravés dos conceitos ensinados no Workshop {reprograma}. Basicamente a homenagem é para a diva da programação Ada Lovelace, como uma page de apresentação pessoal.
+Esta Landing Page foi criada através dos conceitos ensinados no Workshop {reprograma}. Basicamente a homenagem é para a diva da programação Ada Lovelace, como uma page de apresentação pessoal.
 
 
 ## 💻  Screenshots
