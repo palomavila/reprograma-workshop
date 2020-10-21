@@ -12,6 +12,8 @@ Esta Landing Page foi criada através dos conceitos ensinados no Workshop {repro
  <div align="center">
   <img src="https://github.com/palomavila/landingpage/blob/main/github/restof.png" alt"Cards+Footer" title="Cards+Footer" />
 
+
+<div align="left">
 ## 💻Technology
 
 O projeto foi desenvolvido utilizando as tecnologias:
