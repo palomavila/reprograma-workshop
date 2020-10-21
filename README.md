@@ -14,6 +14,8 @@ Esta Landing Page foi criada através dos conceitos ensinados no Workshop {repro
 
 
 <div align="left">
+  
+  
 ## 💻Technology
 
 O projeto foi desenvolvido utilizando as tecnologias:
