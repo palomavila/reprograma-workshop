@@ -29,7 +29,7 @@ O projeto foi desenvolvido utilizando as tecnologias:
 
 ## 💻License
 
- <li><a href=https://github.com/palomavila/reprograma-workshop/blob/main/LICENSE">Click here</a></li>
+ <li><a href="https://github.com/palomavila/reprograma-workshop/blob/main/LICENSE">Click here</a></li>
 
 <p align="center">Made by Paloma ➰</p>
 
